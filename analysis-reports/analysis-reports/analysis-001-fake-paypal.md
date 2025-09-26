@@ -5,8 +5,8 @@
 ## **Analysis Overview**
 | Field | Details |
 |-------|---------|
-| **Analysis Date** | [September 26, 2025] |
-| **Analyst** | [Saranya] |
+| **Analysis Date** | September 26, 2025 |
+| **Analyst** | Saranya |
 | **Sample Source** | Educational cybersecurity training material |
 | **Target Brand** | PayPal |
 | **Attack Type** | Credential Harvesting Phishing |
