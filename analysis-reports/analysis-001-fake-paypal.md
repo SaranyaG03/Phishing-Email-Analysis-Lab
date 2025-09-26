@@ -16,7 +16,7 @@
 - [x] Requests credential confirmation
 - [x] Call-to-action button leading to fake site
 
-## 🔍 Detailed Analysis
+## Detailed Analysis
 
 ### Sender Analysis
 **Suspicious Domain:** `services@paypal-accounts.com`
@@ -94,7 +94,7 @@
 - People in financial stress who fear losing account access
 - Elderly users less familiar with phishing tactics
 
-## 🛡️ Detection Methods
+## Detection Methods
 
 ### How to Identify This as Fake:
 1. **Check sender domain** - Real PayPal never uses hyphenated domains
@@ -110,13 +110,13 @@
 4. **Report the phishing email** to PayPal and authorities
 5. **Delete the email** without interacting
 
-## 🔧 Analysis Tools Used
+## Analysis Tools Used
 - **Visual inspection** - Manual examination of email content
 - **Domain knowledge** - Understanding of PayPal's legitimate practices
 - **Social engineering awareness** - Recognition of psychological manipulation
 - **Cybersecurity best practices** - Application of phishing identification techniques
 
-## 📈 Risk Assessment
+## Risk Assessment
 **Overall Threat Level: HIGH**
 
 ### Risk Factors:
@@ -131,7 +131,7 @@
 - **Identity theft** - Collection of personal information
 - **Further attacks** - Compromised account used for additional scams
 
-## 🎓 Lessons Learned
+## Lessons Learned
 
 ### Key Takeaways:
 1. **Always verify sender domains** - Even professional-looking emails can be fake
